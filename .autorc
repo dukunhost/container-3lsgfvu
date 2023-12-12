@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "dukunhost",
+  "repo": "container-3lsgfvu",
+  "name": "dukunhost",
+  "email": "dukunhost.id@gmail.com",
+}
